@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33023" started-at="2019-08-26T20:07:20Z" finished-at="2019-08-26T20:07:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33023" started-at="2019-08-26T20:07:20Z" finished-at="2019-08-26T20:07:53Z">
+      <class name="tests.tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.tests@d8355a8]" name="setUp" is-config="true" duration-ms="4853" started-at="2019-08-26T20:07:20Z" finished-at="2019-08-26T20:07:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pruebaDos()[pri:0, instance:tests.tests@d8355a8]" name="pruebaDos" duration-ms="7525" started-at="2019-08-26T20:07:25Z" finished-at="2019-08-26T20:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaDos -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.tests@d8355a8]" name="tearDown" is-config="true" duration-ms="466" started-at="2019-08-26T20:07:32Z" finished-at="2019-08-26T20:07:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaDos status=SUCCESS method=tests.pruebaDos()[pri:0, instance:tests.tests@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.tests@d8355a8]" name="setUp" is-config="true" duration-ms="4166" started-at="2019-08-26T20:07:33Z" finished-at="2019-08-26T20:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pruebaTres()[pri:0, instance:tests.tests@d8355a8]" name="pruebaTres" duration-ms="9587" started-at="2019-08-26T20:07:37Z" finished-at="2019-08-26T20:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaTres -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.tests@d8355a8]" name="tearDown" is-config="true" duration-ms="430" started-at="2019-08-26T20:07:46Z" finished-at="2019-08-26T20:07:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaTres status=SUCCESS method=tests.pruebaTres()[pri:0, instance:tests.tests@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.tests@d8355a8]" name="setUp" is-config="true" duration-ms="4106" started-at="2019-08-26T20:07:47Z" finished-at="2019-08-26T20:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pruebaUno()[pri:0, instance:tests.tests@d8355a8]" name="pruebaUno" duration-ms="1462" started-at="2019-08-26T20:07:51Z" finished-at="2019-08-26T20:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaUno -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.tests@d8355a8]" name="tearDown" is-config="true" duration-ms="406" started-at="2019-08-26T20:07:52Z" finished-at="2019-08-26T20:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaUno status=SUCCESS method=tests.pruebaUno()[pri:0, instance:tests.tests@d8355a8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
